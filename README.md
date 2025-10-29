@@ -1,4 +1,4 @@
-# SCT_WD_1 - Interactive Navigation Menu
+# SCT_WD_1 - Responsive Landing Page
 
 ![Project Preview](https://img.shields.io/badge/Status-Completed-brightgreen) ![Technology](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-blue) ![Internship](https://img.shields.io/badge/Internship-SkillCraft%20Technology-orange)
 
